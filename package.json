@@ -1,0 +1,25 @@
+{
+  "name": "random-generator",
+  "version": "1.0.0",
+  "description": "A random id generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishparasar007/random-generator.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Ashish Parasar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishparasar007/random-generator/issues"
+  },
+  "homepage": "https://github.com/ashishparasar007/random-generator#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
